@@ -93,7 +93,7 @@ Binary trees:
 	ft_btree_insert.c
 	ft_btree_search.c
 
-Long ariphmetic:
+Long arithmetic:
 	ft_power2.c
 	ft_power5.c
 	ft_str_addition.c
